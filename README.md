@@ -1,3 +1,3 @@
 # calcApp.harshey
 this is my calculator app
-this is my first kotlin based app : >
+and my first kotlin based app : >
